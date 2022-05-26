@@ -14,5 +14,7 @@ Some of my work on the game includes:
 * Blueprint based UI work
 
 MABotAiComponentExample.cpp - Primary AI driver for our bots. This is the whole file.
+
 MAPracticeComponentExamples.cpp - A few snippets from the code driving my practice mode
+
 MAWeaponComponentExample.cpp - One function showing an implementation of a weapon overheat system.
