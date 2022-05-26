@@ -12,3 +12,7 @@ Some of my work on the game includes:
 * Tracking of many new player match statistics
 * Added custom reticles, Player IFF scaling, crosshair scaling
 * Blueprint based UI work
+
+MABotAiComponentExample.cpp - Primary AI driver for our bots. This is the whole file.
+MAPracticeComponentExamples.cpp - A few snippets from the code driving my practice mode
+MAWeaponComponentExample.cpp - One function showing an implementation of a weapon overheat system.
