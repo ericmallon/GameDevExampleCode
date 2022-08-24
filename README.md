@@ -1,6 +1,6 @@
 # GameDevExampleCode
 
-Some snippets of code from Midair: Community Edition (https://midair.gg/ and https://store.steampowered.com/app/1231210/Midair_Community_Edition/). Midair:CE runs on Unreal Engine 4, with a very small player base of ~200 regulars. 
+Some snippets of code from Midair: Community Edition (https://midair.gg/ and https://store.steampowered.com/app/1231210/Midair_Community_Edition/). Midair:CE runs on Unreal Engine 4, with a very small player base of ~200 regulars.  A quick video showcasing some of the work can be seen here: https://youtu.be/nAQv8TJDUNQ
 
 When I joined the project, onboarding players was our #1 difficulty, so I focused on bots, practice mode, and tutorials. I also implemented a variety of other requests from the community and assorted features I thought would be valuable. The coding team of midair has been small, generally 2 or 3 contributors at any given time, all code in this repository was written 100% by me.
 
